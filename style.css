@@ -35,7 +35,7 @@ h2{
     height:6px ;
     background-color:cyan;
     width: 70px;
-    margin:8px ;
+    margin:8px auto;
 }
 #bio{
   /*Dê padding 20 px, tamanho da fonte 18 px e alinhe o texto no centro.*/
